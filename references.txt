@@ -1,0 +1,15 @@
+Azure IoT Edge "for Dummies" - Blink an LED
+Waldemar Sakalus
+https://www.hackster.io/saka/azure-iot-edge-for-dummies-blink-an-led-e8b2e4
+
+Custom Vision + Azure IoT Edge on a Raspberry Pi 3
+Emmanuel Bertrand
+https://azure.microsoft.com/en-us/resources/samples/custom-vision-service-iot-edge-raspberry-pi/
+
+RASPBERRY PI 3 and 16 RELAY MODULE WIRING
+C/O The Raspberry Pi Foundation
+https://www.raspberrypi.org/forums/viewtopic.php?t=190608
+
+Raspberry Pi Pinout Diagram
+Circuit Notes | Jameco
+https://www.jameco.com/Jameco/workshop/circuitnotes/raspberry-pi-circuit-note.html
