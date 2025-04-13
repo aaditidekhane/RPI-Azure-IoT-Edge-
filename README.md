@@ -1,7 +1,4 @@
-# RPI-Azure-IoT-Edge-
 
-
-Sure, Aditi! Here's a clean, organized, and professional rewrite of your Azure IoT Edge with Raspberry Pi setup guide for your GitHub README:
 
 ---
 
@@ -213,5 +210,3 @@ Monitor D2C messages from the Pi as you did with the simulated device.
 - On resource-constrained devices, set `OptimizeForPerformance` to `false` in `config.yaml`.
 
 ---
-
-Let me know if you want a table of contents, visuals, or badges added!
